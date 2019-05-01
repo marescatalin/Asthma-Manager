@@ -7,6 +7,6 @@ A short video demonstration has been created to show the capabilities of the iOS
 
 
 
-## The project was developed using Google Firebase as an authentication and storage option. Therefore in order to be able to build the application a new database must be created and linked to the project.
+#### The project was developed using Google Firebase as an authentication and storage option. Therefore in order to be able to build the application a new database must be created and linked to the project.
 
-## All the dependencies required have been added to the podfile.
+#### All the dependencies required have been added to the podfile.
