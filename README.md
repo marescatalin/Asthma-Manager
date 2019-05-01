@@ -14,11 +14,4 @@ $ pod install
 
 Open AsthmaManager.xcworkspace and build the application from there
 
-
-Doctor Account credentials:
-
-username: marescatalin@gmail.com
-password: 123456
-
-
 Patient Account credentials can be created by tapping the "Register" button. Only a doctor can make a doctor account.
