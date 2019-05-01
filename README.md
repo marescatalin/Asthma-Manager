@@ -7,18 +7,6 @@ A short video demonstration has been created to show the capabilities of the iOS
 
 
 
-## To build the project run the following in your terminal from the project directory:
+## The project was developed using Google Firebase as an authentication and storage option. Therefore in order to be able to build the application a new database must be created and linked to the project.
 
-$ sudo gem install cocoapods
-
-$ sudo gem install cocoapods-deintegrate cocoapods-clean
-
-$ pod deintegrate
-
-$ pod clean
-
-$ pod install
-
-## Open AsthmaManager.xcworkspace and build the application from there
-
-## Patient Account credentials can be created by tapping the "Register" button. Only a doctor can make a doctor account.
+## All the dependencies required have been added to the podfile.
